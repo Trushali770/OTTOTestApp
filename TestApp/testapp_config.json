@@ -1,0 +1,6 @@
+{
+    "log_dir": "logs/testapp",
+    "max_bytes": 1048576,
+    "backup_count": 5,
+    "log_level": "INFO"
+}
